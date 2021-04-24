@@ -1,0 +1,13 @@
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\ConditionalStatements\bin\Debug\netcoreapp3.1\ConditionalStatements.exe
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\ConditionalStatements\bin\Debug\netcoreapp3.1\ConditionalStatements.deps.json
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\ConditionalStatements\bin\Debug\netcoreapp3.1\ConditionalStatements.runtimeconfig.json
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\ConditionalStatements\bin\Debug\netcoreapp3.1\ConditionalStatements.runtimeconfig.dev.json
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\ConditionalStatements\bin\Debug\netcoreapp3.1\ConditionalStatements.dll
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\ConditionalStatements\bin\Debug\netcoreapp3.1\ConditionalStatements.pdb
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\ConditionalStatements\obj\Debug\netcoreapp3.1\ConditionalStatements.csprojAssemblyReference.cache
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\ConditionalStatements\obj\Debug\netcoreapp3.1\ConditionalStatements.AssemblyInfoInputs.cache
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\ConditionalStatements\obj\Debug\netcoreapp3.1\ConditionalStatements.AssemblyInfo.cs
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\ConditionalStatements\obj\Debug\netcoreapp3.1\ConditionalStatements.csproj.CoreCompileInputs.cache
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\ConditionalStatements\obj\Debug\netcoreapp3.1\ConditionalStatements.dll
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\ConditionalStatements\obj\Debug\netcoreapp3.1\ConditionalStatements.pdb
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\ConditionalStatements\obj\Debug\netcoreapp3.1\ConditionalStatements.genruntimeconfig.cache
